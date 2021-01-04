@@ -24,7 +24,7 @@ var musicTitle = "02. Love Addiction"
 
 func main() {
 	// filename, lang-code 두개 받자
-	fileByte, err := ioutil.ReadFile(musicTitle + ".syc")
+	fileByte, err := ioutil.ReadFile(musicTitle + ".ttsl")
 	if err != nil {
 		panic(err)
 	}
