@@ -12,12 +12,19 @@ titles = { ja = "Love Addiction", ja-ko = "Love Addiction", ko = "Love Addiction
 artist = "アルストロメリア"
 album = "THE IDOLM@STER SHINY COLORS FR@GMENT WING 05"
 composer = "Jam9,家原正樹"
+genre = ""
+year = "2019"
+disk = 1
+track = 2
 duration = "3:55"
 
+series = "THE iDOLM@STER SHINY COLORS"
+
 [singers]
-    [singers.all]
+    [singers.all] # overrides default 'all' properties
     color = "#000000"
     ja = "みんな"
+    ja-ko = "all"
     ko = "모두"
 
     [singers.amana]
