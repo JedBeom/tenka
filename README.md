@@ -259,3 +259,6 @@ go build tenka-go/
 - [ ] 가사 제작 도우미 만들기
 - [ ] JS로 데모 제작
 - [ ] 3곡 이상 예시 추가
+    - [ ] Arrive You ~그것이 운명이라도~
+    - [ ] Brand New!
+    - [ ] 홍백응원V
