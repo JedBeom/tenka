@@ -1,0 +1,42 @@
+title = "Love Addiction"
+
+languages = [
+    "ja",
+    "ja-ko",
+    "ko",
+]
+
+# titles translated
+titles = { ja = "Love Addiction", ja-ko = "Love Addiction", ko = "Love Addiction" }
+
+artist = "アルストロメリア"
+album = "THE IDOLM@STER SHINY COLORS FR@GMENT WING 05"
+composer = "Jam9,家原正樹"
+duration = "3:55"
+
+[singers]
+    [singers.all]
+    color = "#000000"
+    ja = "みんな"
+    ko = "모두"
+
+    [singers.amana]
+    color = "#f53c71"
+    ja = "大崎甘奈"
+    ja-ko = "오사키 아마나"
+    ko = "오사키 아마나"
+    actor = "黒木ほの香"
+
+    [singers.chiyuki]
+    color = "#fbfbfb"
+    ja = "桑山千雪"
+    ja-ko = "쿠와야마 치유키"
+    ko = "쿠와야마 치유키"
+    actor = "芝崎典子"
+
+    [singers.tenka]
+    color = "#e75bec"
+    ja = "大崎甜花"
+    ja-ko = "오사키 텐카"
+    ko = "오사키 텐카"
+    actor = "前川涼子"
